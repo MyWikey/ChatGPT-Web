@@ -2,10 +2,10 @@
   <el-row class="input-row" justify="center">
     <el-col :span="8">
       <el-form label-width="auto" size="large">
-        <el-form-item label="ApiKey">
+        <el-form-item label="秘钥">
           <el-input v-model="api_key" placeholder="add key here. 在这里输入秘钥" show-password type="password"></el-input>
         </el-form-item>
-        <el-form-item label="Prompt">
+        <el-form-item label="内容">
           <el-input type="textarea" v-model="prompt" placeholder="Input text here. 在这里输入内容" rows="3"></el-input>
         </el-form-item>
       </el-form>
@@ -134,7 +134,7 @@
     <p class="footer-top">{{ pkgjson.name }} {{ pkgjson.version }}</p>
   </el-row>
   <el-row justify="center">
-    <el-link class="footer-text" icon="Link" href="https://space.bilibili.com/34147682" target="_blank">created by Smile</el-link>
+    <el-link class="footer-text" icon="Link" href="https://github.com/MyWikey/ChatGPT-Web" target="_blank">created by Wikey</el-link>
   </el-row>
   <el-row justify="center">
     <p class="footer-text">免责声明：本页面开发目的仅用于学习和探索</p>

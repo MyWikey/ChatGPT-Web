@@ -1,8 +1,3 @@
-
-![GitHub](https://github.com/MyWikey/ChatGPT-Web)
-![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/SmileBuild/Chatgpt-Web?filename=chatgpt-web%2Fpackage.json)
-![Last Commit](https://github.com/MyWikey/ChatGPT-Web)
-![pages-build-deployment](https://github.com/MyWikey/ChatGPT-Web/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/MyWikey/ChatGPT-Web/actions/workflows/pages/pages-build-deployment)
 # ChatGPT-Web
 ChatGPT page with API instand of offical pages,that can be adapted to pc and mobile
 

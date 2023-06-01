@@ -1,10 +1,10 @@
 {
   "name": "chatgpt-web",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "private": true,
   "author": {
-    "name": "Smile",
-    "url": "https://space.bilibili.com/34147682"
+    "name": "Wikey",
+    "url": "https://github.com/MyWikey/ChatGPT-Web"
   },
   "description": "ChatGPT web client base on OpenAI",
   "scripts": {
