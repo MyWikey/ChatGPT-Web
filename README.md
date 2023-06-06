@@ -9,7 +9,7 @@ You can use online link for the project now.
 
 你可以点击下面的链接直接使用。
 
-[ChatGPT-Web online](https://github.com/MyWikey/ChatGPT-Web)
+[ChatGPT-Web online](https://mywikey.github.io/ChatGPT-Web/)
 
 ### Contact me.
 
